@@ -1,0 +1,19 @@
+{
+  "name": "Waylon Blog",
+  "short_name": "Waylon Blog",
+  "description": "A personal blog waylon engineer",
+  "icons": [{
+    "src": "icons/pwa_icon_128.ico",
+    "sizes": "128x128",
+    "type": "image/ico"
+  }, {
+    "src": "icons/pwa_icon_512.ico",
+    "sizes": "512x512",
+    "type": "image/ico"
+  }],
+  "background_color": "#fff",
+  "theme_color": "#000",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
